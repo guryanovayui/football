@@ -1,4 +1,0 @@
-db.driver.class=org.postgresql.Driver
-db.url=jdbc:postgresql://localhost:5433/football_db
-db.login=useruser
-db.password=useruser
